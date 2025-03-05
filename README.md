@@ -1,10 +1,10 @@
-# Nom final de la formation
+# Construire un chatbot avec LangChain	
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Construire un chatbot avec LangChain`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Cette formation s’adresse aux data scientists, experts en IA et développeurs IA souhaitant créer un chatbot performant avec LangChain et les LLM. Vous apprendrez à concevoir un assistant virtuel en abordant toutes les étapes : installation de l’environnement, développement du chatbot, gestion de l’interaction avec les utilisateurs et analyse des feedbacks clients. Vous découvrirez aussi comment automatiser les réponses, gérer la mémoire de votre assistant, le faire évoluer et le déployer sur une application web. Animée par Madjid Khichane, cette formation pratique vous fournira toutes les clés pour concevoir un assistant virtuel complet, fluide et performant.		
 
 ## Instructions
 
@@ -27,13 +27,13 @@ La branche master correspond au code à la fin de la formation.
 
 ### Formateur
 
-**Nom du formateur** 
+**Madjid Khichane** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
-[lil-URL-trainer]: https://
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
 
 [1]: # (End of FR-Instruction ###############################################################################################)
