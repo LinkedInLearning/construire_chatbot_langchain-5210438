@@ -6,6 +6,7 @@ Ce dossier Repository est lié au cours `Développer des agents IA avec LangChai
 
 Cette formation s’adresse aux experts en IA et développeurs IA souhaitant créer un agent AI performant avec LangChain, LangGraph et les LLM. Vous apprendrez à concevoir un Agent AI en abordant toutes les étapes : installation de l’environnement, développement de l'agent AI, gestion de l’interaction avec les utilisateurs. Vous découvrirez aussi comment automatiser les réponses, gérer la mémoire de votre assistant et le faire évoluer. Animée par Madjid Khichane, cette formation pratique vous fournira toutes les clés pour concevoir un agent AI complet, fluide et performant.		
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
  
 ## Installation
 
